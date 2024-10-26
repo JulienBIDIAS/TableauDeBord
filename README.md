@@ -16,5 +16,3 @@ Le dashboard cherche également à sensibiliser sur les conséquences de la cons
 <p style="text-align: justify;">
 Ce projet vise ainsi à stimuler des actions concrètes pour améliorer l'accès à l'eau potable. Il fournit une base solide pour soutenir des initiatives de développement durable et pour mobiliser les ressources nécessaires à des changements significatifs dans les régions les plus affectées, tout en offrant une vue complète et accessible des problématiques globales liées à l’eau potable.
 </p>
-
-Lien du dépôt Github : 
